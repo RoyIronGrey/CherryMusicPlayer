@@ -1,12 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c3a693-1f87-4cc1-9880-56ecae1334c8" name="Default" comment="" />
+    <list default="true" id="26e35b1f-fc07-4bdc-b628-27e55983507f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_MobCommons_2016_0707_1708_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_MobTools_2016_0707_1708_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_Core_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_Facebook_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_GooglePlus_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_QQ_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_QZone_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_Renren_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_SinaWeibo_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_Twitter_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_Wechat_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_Wechat_Core_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___F__GitWorkSpace_cherryMusicPlayer_app_libs_ShareSDK_Wechat_Moments_2_7_4_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-en.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-en.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ssdk_oks_ptr_ptr.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ssdk_oks_ptr_ptr.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi_logo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi_logo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_logo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_logo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_auth_title_back.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_auth_title_back.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_back_arr.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_back_arr.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_logo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_logo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_alipay.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_alipay.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_bluetooth.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_bluetooth.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_check_checked.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_check_checked.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_check_default.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_check_default.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_douban.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_douban.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_dropbox.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_dropbox.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_email.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_email.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_evernote.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_evernote.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_facebook.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_facebook.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_facebookmessenger.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_facebookmessenger.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_flickr.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_flickr.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_foursquare.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_foursquare.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_googleplus.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_googleplus.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_instagram.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_instagram.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_instapaper.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_instapaper.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_kaixin.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_kaixin.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_kakaostory.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_kakaostory.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_kakaotalk.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_kakaotalk.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_laiwang.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_laiwang.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_laiwangmoments.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_laiwangmoments.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_line.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_line.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_linkedin.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_linkedin.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_mingdao.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_mingdao.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_pinterest.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_pinterest.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_pocket.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_pocket.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_qq.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_qq.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_qzone.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_qzone.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_renren.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_renren.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_shortmessage.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_shortmessage.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_sinaweibo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_sinaweibo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_tencentweibo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_tencentweibo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_tumblr.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_tumblr.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_twitter.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_twitter.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_vkontakte.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_vkontakte.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_wechat.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_wechat.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_wechatfavorite.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_wechatfavorite.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_wechatmoments.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_wechatmoments.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_whatsapp.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_whatsapp.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_yixin.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_yixin.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_yixinmoments.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_yixinmoments.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_youdao.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_oks_classic_youdao.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_title_div.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ssdk_title_div.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_bg.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_bg.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_flash.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_flash.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_left.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_left.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_line.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_line.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_music_list_selector.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_music_list_selector.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_next.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_next.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_next_clicked.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_next_clicked.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_next_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_next_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_close.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_close.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_next.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_next.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_next_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_next_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_next_pressed.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_next_pressed.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pause.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pause.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pause_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pause_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pause_pressed.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pause_pressed.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_play.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_play.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_play_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_play_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_play_pressed.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_play_pressed.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pre.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pre.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pre_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pre_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pre_pressed.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_notify_pre_pressed.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_one_circle.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_one_circle.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_one_circle_active.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_one_circle_active.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pause.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pause.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pause_clicked.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pause_clicked.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pause_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pause_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play_clicked.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play_clicked.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play_in_list.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_play_in_list.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pre.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pre.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pre_clicked.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pre_clicked.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pre_img_btn.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pre_img_btn.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_random.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_random.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_random_active.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_random_active.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_right.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_right.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_search.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_search.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_seekbar_style.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_seekbar_style.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_share.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_share.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_splash.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_splash.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_splash_logo.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_splash_logo.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ssdk_oks_classic_platform_cell_back.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ssdk_oks_classic_platform_cell_back.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ssdk_oks_classic_progressbar.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ssdk_oks_classic_progressbar.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_thumb.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_thumb.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_fragment_list.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_fragment_list.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_fragment_play.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_fragment_play.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_lylics_item.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_lylics_item.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_music_list_item.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_music_list_item.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_notification.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_notification.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_page_controler.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_page_controler.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_splash.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_splash.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en_values-en.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en_values-en.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,74 +159,8 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="FragmentPlay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/FragmentPlay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1656">
-              <caret line="107" column="21" lean-forward="false" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3177#3216#0" expanded="true" />
-                <element signature="e#3237#3279#0" expanded="true" />
-                <element signature="e#3296#3334#0" expanded="true" />
-                <element signature="e#3354#3395#0" expanded="true" />
-                <element signature="e#3412#3450#0" expanded="true" />
-                <element signature="e#3470#3511#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FragmentList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/FragmentList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="57" column="46" lean-forward="false" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2142#2417#0" expanded="true" />
-                <element signature="e#2416#2417#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_play.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_play.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_list.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2102,22 +2176,13 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/FragmentPlay.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/FragmentList.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/PageControler.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="39" />
+    <option name="y" value="240" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -2134,42 +2199,16 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="cherryMusicPlayer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="cherryMusicPlayer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="cherryMusicPlayer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="cherryMusicPlayer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="E:/AndroidSDK" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="8431393834585443" />
+    <property name="last_opened_file_path" value="F:/GitWorkSpace/cherryMusicPlayer" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2207,7 +2246,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2327,35 +2366,33 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="39c3a693-1f87-4cc1-9880-56ecae1334c8" name="Default" comment="" />
-      <created>1527732217335</created>
+      <changelist id="26e35b1f-fc07-4bdc-b628-27e55983507f" name="Default" comment="" />
+      <created>1527750849263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527732217335</updated>
+      <updated>1527750849263</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11383928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2367,6 +2404,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2377,225 +2415,20 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidSDK/sources/android-17/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="301" column="54" lean-forward="false" selection-start-line="301" selection-start-column="54" selection-end-line="301" selection-end-column="54" />
-          <folding>
-            <element signature="e#10684#10714#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/AndroidSDK/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0-sources.jar!/android/support/v4/app/Fragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1778">
-          <caret line="162" column="13" lean-forward="false" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidSDK/sources/android-17/android/app/FragmentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidSDK/sources/android-17/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="1654" column="16" lean-forward="false" selection-start-line="1654" selection-start-column="16" selection-end-line="1654" selection-end-column="16" />
-          <folding>
-            <element signature="e#74310#74311#0" expanded="false" />
-            <element signature="e#74343#74344#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/sharesdk/onekeyshare/CustomerLogo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/Music.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/MusicHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/MusicListItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/PlayServiceInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/Splash.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/PlayService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4186">
-          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/lylics_item.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/music_list_item.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/notification.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/page_controler.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_play.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-620">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/PageControler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1583">
-          <caret line="96" column="13" lean-forward="true" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1455#1465#0" expanded="true" />
-            <element signature="e#6084#6085#0" expanded="true" />
-            <element signature="e#6121#6122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/FragmentPlay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
-          <caret line="107" column="21" lean-forward="false" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3177#3216#0" expanded="true" />
-            <element signature="e#3237#3279#0" expanded="true" />
-            <element signature="e#3296#3334#0" expanded="true" />
-            <element signature="e#3354#3395#0" expanded="true" />
-            <element signature="e#3412#3450#0" expanded="true" />
-            <element signature="e#3470#3511#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/cherrymusicplayer/FragmentList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="57" column="46" lean-forward="false" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2142#2417#0" expanded="true" />
-            <element signature="e#2416#2417#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

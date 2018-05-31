@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\GitWorkSpace\\cherryMusicPlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "F:\\OpenSourceAPP\\cherryMusicPlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "F:\\GitWorkSpace\\cherryMusicPlayer\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "F:\\OpenSourceAPP\\cherryMusicPlayer\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
