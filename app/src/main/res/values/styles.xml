@@ -1,0 +1,40 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <style name="Theme.Splash" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Activity.Splash</item>
+    </style>
+
+    <style name="Animation.Activity.Splash" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@*android:anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@*android:anim/fade_out</item>
+        <item name="android:activityCloseEnterAnimation">@*android:anim/fade_in</item>
+        <item name="android:activityCloseExitAnimation">@*android:anim/fade_out</item>
+        <item name="android:taskOpenEnterAnimation">@*android:anim/fade_in</item>
+        <item name="android:taskOpenExitAnimation">@*android:anim/fade_out</item>
+        <item name="android:taskCloseEnterAnimation">@*android:anim/fade_in</item>
+        <item name="android:taskCloseExitAnimation">@*android:anim/fade_out</item>
+        <item name="android:taskToFrontEnterAnimation">@*android:anim/fade_in</item>
+        <item name="android:taskToFrontExitAnimation">@*android:anim/fade_out</item>
+        <item name="android:taskToBackEnterAnimation">@*android:anim/fade_in</item>
+        <item name="android:taskToBackExitAnimation">@*android:anim/fade_out</item>
+    </style>
+
+</resources>

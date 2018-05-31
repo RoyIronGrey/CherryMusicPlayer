@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.cherrymusicplayer.MusicListItem xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/music_list_selector"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingBottom="8dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="8dp" >
+
+            <TextView
+                android:id="@+id/list_text_music_title"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1.2"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:text="暂无歌曲"
+                android:textColor="#222222"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/list_text_artist_album"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:text="artist  - album"
+                android:textColor="#888888"
+                android:textSize="12dp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/list_play_img_btn"
+            android:layout_width="56dp"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:padding="12dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/play_in_list" />
+    </LinearLayout>
+
+</com.example.cherrymusicplayer.MusicListItem>

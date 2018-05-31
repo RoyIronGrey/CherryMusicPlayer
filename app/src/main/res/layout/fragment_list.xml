@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#ce3d3a"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text="我的歌单"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/list_right_img_btn"
+            android:layout_width="56dp"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:onClick="buttonClick"
+            android:padding="14dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/right" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#f2f4f5"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="14dp" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/search" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="horizontal"
+            android:paddingRight="10dp" >
+
+            <EditText
+                android:id="@+id/list_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#f2f4f5"
+                android:hint="搜索歌曲"
+                android:textColor="#666666"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/list_flash_img_btn"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:padding="13dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/flash" />
+
+        <View
+            android:layout_width="3dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/line" />
+
+    <ListView
+        android:id="@+id/list_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#f2f4f5"
+        android:divider="#bbbbbb"
+        android:dividerHeight="1px" >
+    </ListView>
+
+</LinearLayout>

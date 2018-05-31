@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/notify"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#2f2f2f"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="64dp"
+        android:paddingBottom="18dp"
+        android:paddingTop="18dp"
+        android:src="@drawable/notify" />
+
+    <TextView
+        android:id="@+id/notify_title"
+        android:layout_width="140dp"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:text="@string/default_playing_title"
+        android:textColor="@color/grey_white"
+        android:textSize="15dp" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="64dp"
+        android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/notify_pre_img_btn"
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:paddingBottom="15dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="15dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/notify_pre_img_btn" />
+
+        <ImageButton
+            android:id="@+id/notify_playORpause_img_btn"
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toRightOf="@+id/notify_pre_img_btn"
+            android:background="@null"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/notify_play_img_btn" />
+
+        <ImageButton
+            android:id="@+id/notify_next_img_btn"
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/notify_playORpause_img_btn"
+            android:background="@null"
+            android:paddingBottom="15dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="15dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/notify_next_img_btn" />
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/notify_close_img_btn"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="right"
+        android:padding="4dp"
+        android:scaleType="fitXY"
+        android:background="@null"
+        android:src="@drawable/notify_close"
+        android:contentDescription="@string/app_name" />
+
+</LinearLayout>

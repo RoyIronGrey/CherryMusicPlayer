@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey_white">#bbbbbb</color>
+    <color name="music_list_default">#f2f4f5</color>
+    <color name="music_list_selected">#d2d4d5</color>
+    <color name="music_list_pressed">#e2e4e5</color>
+    <color name="music_list_focused">#d2d4d5</color>
+
+</resources>

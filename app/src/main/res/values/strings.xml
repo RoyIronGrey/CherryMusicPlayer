@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cherry</string>
+    <string name="default_playing_title">   </string>
+    <string name="default_playing_artist">   </string>
+    <string name="default_lyrics">暂无歌词</string>
+    <string name="default_time">00:00</string>
+    <string name="default_share_title">cherryMusicPlayer</string>
+    <string name="default_share_text">By Roy and Bob</string>
+    <string name="publish_share_text">好歌分享</string>
+    <string name="default_share_titleUrl">http://mob.com</string>
+    <string name="default_share_site">http://mob.com</string>
+    <string name="default_share_siteUrl">http://mob.com</string>
+    <string name="default_share_comment">在这里输入评论</string>
+    
+    <string name="model_single">单曲循环</string>
+    <string name="model_order">列表循环</string>
+    <string name="model_random">随机播放</string>
+    
+    <string name="back">再次点击退出程序</string>
+    <string name="toMain">返回播放界面</string>
+    
+    <string name="notify">Cherry</string>
+</resources>
